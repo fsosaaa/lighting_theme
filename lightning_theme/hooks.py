@@ -1,8 +1,8 @@
-app_name = "netmanthan_themes"
-app_title = "NETMANTHAN ERPNext Themes"
-app_publisher = "NETMANTHAN"
-app_description = "Netmanthan Erpnext Themes Version 14"
-app_email = "NETMANTHAN@OUTLOOK.COM"
+app_name = "lightning_theme"
+app_title = "Lightning Theme"
+app_publisher = "Fernando Sosa"
+app_description = "Lightning Theme for V15, Netmanthan Erpnext Themes Version 14 fork"
+app_email = "fsosa@blazingsv.shop"
 app_license = "MIT"
 # required_apps = []
 
@@ -10,7 +10,7 @@ app_license = "MIT"
 # ------------------
 
 # include js, css files in header of desk.html
-app_include_css = "/assets/netmanthan_themes/css/netmanthan_themes.css"
+app_include_css = "/assets/lightning_theme/css/lightning_theme.css"
 # app_include_js = "/assets/netmanthan_themes/js/netmanthan_themes.js"
 
 # include js, css files in header of web template

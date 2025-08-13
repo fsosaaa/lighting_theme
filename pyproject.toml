@@ -1,9 +1,9 @@
 [project]
-name = "netmanthan_themes"
+name = "lightning_theme"
 authors = [
-    { name = "NETMANTHAN", email = "NETMANTHAN@OUTLOOK.COM"}
+    { name = "Fernando Sosa", email = "fsosa@blazingsv.shop"}
 ]
-description = "Netmanthan Erpnext Themes Version 14"
+description = "Lightning Theme for V15, Netmanthan Erpnext Themes Version 14 fork"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
