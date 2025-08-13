@@ -158,7 +158,7 @@ input:focus{
 :root {
     --background-color: #fe8610;
     --primary-color: #fe8610;
-    --secondary-color: #8b806b;
+    --secondary-color: #050e1f;
     --white-color: #ffffff;
     --black-color: #050e1f;
     --gray-color: #888;
@@ -320,7 +320,7 @@ symbol#icon-small-down {
 
 /* Table */
 .form-grid {
-    border-radius: 0;
+    border-radius: 15;
     border: 1px solid #bbbbbb;
 }
 
@@ -395,4 +395,9 @@ symbol#icon-small-down {
         object-fit: contain;
         vertical-align: middle;
     }
+}
+
+.navbar .dropdown-help,
+.navbar .dropdown-help a {
+    display: none !important;
 }
